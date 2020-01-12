@@ -9,6 +9,7 @@ public class User {
 
     private Integer age;
     private String name;
+    private double money;
 
     public Integer getAge() {
         return age;
